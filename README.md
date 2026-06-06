@@ -36,10 +36,6 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Derrick-cyber-dev&theme=dark" alt="GitHub Streak" />
-</p>
+## 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Derrick-cyber-dev&theme=dark" alt="GitHub Summary" />
-</p>
+![](https://komarev.com/ghpvc/?username=Derrick-cyber-dev&color=blue&style=for-the-badge)
