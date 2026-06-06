@@ -34,8 +34,3 @@
 
 <br/>
 
-## 📊 GitHub Stats
-
-## 📊 GitHub Activity
-
-![](https://komarev.com/ghpvc/?username=Derrick-cyber-dev&color=blue&style=for-the-badge)
