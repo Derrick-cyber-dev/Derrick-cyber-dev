@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Derrick Teddy Wongbay</h1>
-<h3 align="center">Junior Full-Stack Developer | Laravel · PHP · MySQL · HTML/CSS</h3>
+<h3 align="center">Full-Stack Developer | Laravel · PHP · MySQL · HTML/CSS</h3>
 
 <br/>
 
