@@ -1,11 +1,11 @@
 <h1 align="center">Hi there, I'm Derrick Teddy Wongbay</h1>
-<h3 align="center">Full-Stack Developer | Laravel · PHP · MySQL · HTML/CSS</h3>
+<h3 align="center">Junior Full-Stack Developer | Laravel · PHP · MySQL · HTML/CSS</h3>
 
 <br/>
 
 ## 🙋‍♂️ About Me
 
-- 🌍 Based in **Dakhla, Western Sahara, Morocco**
+- 🌍 Based in **Kénitra, centre ville, Morocco**
 - 💻 Passionate about building real-world web applications
 - 🌱 Currently improving my skills in **Laravel & Full-Stack Development**
 - 📫 Reach me at **derrickteddywongbay@gmail.com**
