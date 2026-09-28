@@ -3,7 +3,7 @@
 
 <br/>
 
-## 🙋‍♂️ About Me
+## About Me
 
 - 🌍 Based in **Kénitra, centre ville, Morocco**
 - 💻 Passionate about building real-world web applications
@@ -12,7 +12,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -25,7 +25,7 @@
 
 <br/>
 
-## 🔗 Connect With Me
+## Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/derrick-teddy-wongbay-156a7734b)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/derrickteddywongbay)
