@@ -56,7 +56,7 @@ The source code is in a private repository and is available for technical review
 |---|---|
 | **CHW Reporting API** | REST API for community health worker reporting (Laravel) |
 | **Civic Service Request Tracker** | MySQL-backed system for tracking government service requests |
-| **TaskFlow** | React Native task-management app (CRUD) |
+| **EduHub** | Système Intéligent de Gestion des Contacts |
 
 <br/>
 
