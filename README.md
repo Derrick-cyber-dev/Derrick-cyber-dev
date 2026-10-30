@@ -70,6 +70,8 @@ The source code is in a private repository and is available for technical review
 
 **Tools:** ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
+**Testing:** ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![Hoppscotch](https://img.shields.io/badge/Hoppscotch-10B981?style=flat-square&logo=hoppscotch&logoColor=white)
+
 <br/>
 
 ## Currently
@@ -94,4 +96,3 @@ Freelance web development and IT support work, and collaboration on civic-tech a
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/derrickteddywongbay)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/d7derrick)
 
-<p align="center"><i>Built for Liberia 🇱🇷 by a Liberian developer.</i></p>
